@@ -13,5 +13,42 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{ef39de30-0375-4f15-a0ab-b4f61420c017}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\StudentProvider">
+      <UniqueIdentifier>{d0d07f75-aab0-451b-b97a-09f3f5734250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Student">
+      <UniqueIdentifier>{0ee8fdcd-c2f5-4e31-90d4-1f47e07ac0b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Library">
+      <UniqueIdentifier>{c378ef98-b958-430a-9d25-279a55312fbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{6a1ad1d1-6294-4dee-ad58-e3acf678009a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Student.cpp">
+      <Filter>Core\Student</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentProvider.cpp">
+      <Filter>Core\StudentProvider</Filter>
+    </ClCompile>
+    <ClCompile Include="application.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Student.h">
+      <Filter>Core\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentProvider.h">
+      <Filter>Core\StudentProvider</Filter>
+    </ClInclude>
+    <ClInclude Include="library.h">
+      <Filter>Core\Library</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
