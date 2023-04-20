@@ -1,0 +1,12 @@
+Name: Tokyo
+Country: Japan
+Population: 37400000
+Area: 2200
+Name: Mumbai
+Country: India
+Population: 20411000
+Area: 603
+Name: Mexico
+Country: Mexico
+Population: 21825000
+Area: 1485
