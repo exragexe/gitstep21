@@ -1,0 +1,9 @@
+Name of comand:Real Madrid
+Number win match:33
+Number lose match:12
+Name of comand:Chelsie
+Number win match:8
+Number lose match:6
+Name of comand:PSG
+Number win match:18
+Number lose match:2
