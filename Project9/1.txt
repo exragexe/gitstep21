@@ -1,0 +1,9 @@
+Date:20.02.23
+Temperature in Celsiy:-10
+Atmospheric pressure(mm rt.st.):600
+Date:23.01.23
+Temperature in Celsiy:-5
+Atmospheric pressure(mm rt.st.):700
+Date:05.01.23
+Temperature in Celsiy:-12
+Atmospheric pressure(mm rt.st.):610
