@@ -1,0 +1,12 @@
+Author: Tom
+Name: Rusalka
+Year: 2013
+Pages: 100
+Author: Aureliy
+Name: Domino
+Year: 2003
+Pages: 134
+Author: Alexandr
+Name: Colobok
+Year: 2009
+Pages: 182
