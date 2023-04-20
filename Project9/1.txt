@@ -1,0 +1,9 @@
+Name of goods:Milk
+Number of goods:12
+Price is for one:300
+Name of goods:Meat
+Number of goods:33
+Price is for one:600
+Name of goods:Bread
+Number of goods:22
+Price is for one:450
